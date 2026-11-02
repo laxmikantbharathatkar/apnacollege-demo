@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is ny first Git repository
+this is my first Git repository
 Author - Laxmikant Bharat Hatkar
